@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
-#EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,4K Pruebas
-http://127.0.0.1:6878/ace/getstream?id=440e15375a76b0245ee07873dae1681f8c6d83cb
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/MG3Vc2xT/elevensports14k.png" ,Eleven Sports 1 4K
 http://127.0.0.1:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="4K" tvg-id="LA 1 HD" tvg-logo="https://i.postimg.cc/FzdPMFp5/tve4k.png" ,La 1 4K
 http://127.0.0.1:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,Sin emisión
+http://127.0.0.1:6878/ace/getstream?id=440e15375a76b0245ee07873dae1681f8c6d83cb
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
 http://127.0.0.1:6878/ace/getstream?id=8b2e003ef51657196d2096aa84b9b21ae4bfb660
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720
@@ -57,16 +57,18 @@ http://127.0.0.1:6878/ace/getstream?id=f8a77a75bf7572e360556339794d3d13fca8caa9
 http://127.0.0.1:6878/ace/getstream?id=1954779c721fc7d87eb6d7df7ab11bf751cebb3b
 #EXTINF:-1 group-title="EuroSport" tvg-id="EUROSPORT2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2
 http://127.0.0.1:6878/ace/getstream?id=b12bd6f32bbd53a2bbf182a30549fbdf747235cd
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #1 (m*)
-http://127.0.0.1:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 (m*)
-http://127.0.0.1:6878/ace/getstream?id=059add5d6c8cda2a2ebf8e338744e360388b34ae 
+#EXTINF:-1 group-title="Eventos del momento" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 1080 (kawa*)
+http://127.0.0.1:6878/ace/getstream?id=7031601915e3d33893cb324c89055b91b9ec5574
+#EXTINF:-1 group-title="Eventos del momento" tvg-id="Gol Mundial 2 HD" tvg-logo="https://i.postimg.cc/sD27RtH5/golmundial2-oscuro.png" ,Gol Mundial 2 1080 (kawa*)
+http://127.0.0.1:6878/ace/getstream?id=f3d0600f3a135c487f38a0ef9aa3d8beeb579671
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Sin emisión
+http://127.0.0.1:6878/ace/getstream?id=
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 1080 multiaudio
 http://127.0.0.1:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 1080 multiaudio
+http://127.0.0.1:6878/ace/getstream?id=f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 1080
 http://127.0.0.1:6878/ace/getstream?id=3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
-#EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 1080
-http://127.0.0.1:6878/ace/getstream?id=f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 720
 http://127.0.0.1:6878/ace/getstream?id=e80b91500a5679965a0cbab90f5eaf6cba6da2f3
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 720
@@ -197,79 +199,79 @@ http://127.0.0.1:6878/ace/getstream?id=c95422bc904378be0b035eba721d5e6a004f7d79
 http://127.0.0.1:6878/ace/getstream?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
 #EXTINF:-1 group-title="Otros idiomas" tvg-id="SPORT TV3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-3-452.png" ,Sport TV 3 720
 http://127.0.0.1:6878/ace/getstream?id=6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
-#EXTINF:-1 group-title="Otros idiomas" ,NBA USA 1 1080
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" ,NBA USA 1 1080
 http://127.0.0.1:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
-#EXTINF:-1 group-title="Otros idiomas" ,NBA USA 2 1080
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" ,NBA USA 2 1080
 http://127.0.0.1:6878/ace/getstream?id=f1c84ec8ea0c0bfff8a24272b66c64354a522110
-#EXTINF:-1 group-title="Otros idiomas" ,ESPN USA 1080
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a29.png" ,ESPN USA 1080
 http://127.0.0.1:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 group-title="Otros idiomas" ,ESPN 2 USA 1080
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a32.png" ,ESPN 2 USA 1080
 http://127.0.0.1:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 group-title="Otros idiomas" ,FOX SPORTS USA 1080
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a60.png" ,FOX SPORTS USA 1080 
 http://127.0.0.1:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 group-title="Otros idiomas" ,FOX SPORTS 2 USA 1080
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a61.png" ,FOX SPORTS 2 USA 1080
 http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 group-title="Otros idiomas" ,BT Sport 1 UK 1080
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" ,BT Sport 1 UK 1080 
 http://127.0.0.1:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="Otros idiomas" ,BT Sport 2 UK 1080
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a100.png" ,BT Sport 2 UK 1080
 http://127.0.0.1:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="Otros idiomas" ,BT Sport 3 UK 1080
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a108.png" ,BT Sport 3 UK 1080
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="Otros idiomas" ,BT Sport 4 UK 1080
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a98.png" ,BT Sport 4 UK 1080
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 group-title="Otros idiomas" ,Sky Sports Arena UK
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a92.png" ,Sky Sports Arena UK
 http://127.0.0.1:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 group-title="Otros idiomas" ,Sky Sports PREMIER LEAGUE UK
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a90.png" ,Sky Sports PREMIER LEAGUE UK
 http://127.0.0.1:6878/ace/getstream?id=8d976b2a90dce3b57ed094bd8a6152335c66bbc9
-#EXTINF:-1 group-title="Otros idiomas" ,Sky Sports Football UK
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a91.png" ,Sky Sports Football UK
 http://127.0.0.1:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 group-title="Otros idiomas" ,Sky Sports Main Event UK
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png" ,Sky Sports Main Event UK
 http://127.0.0.1:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 group-title="Otros idiomas" ,Sky Sports Plus UK
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a117.png" ,Sky Sports Plus UK
 http://127.0.0.1:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 group-title="Otros idiomas" ,Premier Sports 1 UK
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a95.png" ,Premier Sports 1 UK
 http://127.0.0.1:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 group-title="Otros idiomas" ,Premier Sports 1 UK
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1442.png" ,Premier Sports 2 UK
 http://127.0.0.1:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 group-title="Otros idiomas" ,RTL+ SPORT EVENT 1 [DE]
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" ,RTL+ SPORT EVENT 1 [DE]
 http://127.0.0.1:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
-#EXTINF:-1 group-title="Otros idiomas" ,RTL+ SPORT EVENT 2 [DE]
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" ,RTL+ SPORT EVENT 2 [DE]
 http://127.0.0.1:6878/ace/getstream?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466
-#EXTINF:-1 group-title="Otros idiomas" ,RTL+ SPORT EVENT 3 [DE]
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" ,RTL+ SPORT EVENT 3 [DE]
 http://127.0.0.1:6878/ace/getstream?id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
-#EXTINF:-1 group-title="Otros idiomas" ,RTL+ SPORT EVENT 4 [DE]
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" ,RTL+ SPORT EVENT 4 [DE]
 http://127.0.0.1:6878/ace/getstream?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6
-#EXTINF:-1 group-title="Otros idiomas" ,RTL+ SPORT EVENT 5 [DE]
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" ,RTL+ SPORT EVENT 5 [DE]
 http://127.0.0.1:6878/ace/getstream?id=81284e9a279ee23cbc4a7400bd9531f127d20fe5
-#EXTINF:-1 group-title="Otros idiomas" ,RTL+ SPORT EVENT 6 [DE]
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1862.png" ,RTL+ SPORT EVENT 6 [DE]
 http://127.0.0.1:6878/ace/getstream?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
-#EXTINF:-1 group-title="Otros idiomas" ,Eurosport 1 HD [DE]
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="Eurosport 1 GER HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a150.png" ,Eurosport 1 HD [DE]
 http://127.0.0.1:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 group-title="Otros idiomas" ,Eurosport 2 HD [DE]
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="Eurosport 2 GER HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a151.png" ,Eurosport 2 HD [DE]
 http://127.0.0.1:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-#EXTINF:-1 group-title="Otros idiomas" ,BeIN Sports 1 BE
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a400.png" ,BeIN Sports 1 BE
 http://127.0.0.1:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 group-title="Otros idiomas" ,BeIN Sports 2 BE
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a401.png" ,BeIN Sports 2 BE
 http://127.0.0.1:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 group-title="Otros idiomas" ,BeIN Sports 3 BE
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a402.png" ,BeIN Sports 3 BE
 http://127.0.0.1:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 group-title="Otros idiomas" ,Eleven Sports 1 BE
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="Eleven Sports 1 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png" ,Eleven Sports 1 PT
 http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 group-title="Otros idiomas" ,Eleven Sports 2 BE
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="Eleven Sports 2 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1501.png" ,Eleven Sports 2 PT
 http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 group-title="Otros idiomas" ,Eleven Sports 3 BE
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="Eleven Sports 3 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1502.png" ,Eleven Sports 3 PT
 http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 group-title="Otros idiomas" ,Eleven Sports 4 BE
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="Eleven Sports 4 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1557.png" ,Eleven Sports 4 PT
 http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 group-title="Otros idiomas" ,Eleven Sports 5 BE
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="Eleven Sports 5 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1558.png" ,Eleven Sports 5 PT
 http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 group-title="Otros idiomas" ,Eleven Sports 6 BE
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="Eleven Sports 6 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png" ,Eleven Sports 6 PT
 http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 group-title="Otros idiomas" ,Setanta Sport 1
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports1.png" ,Setanta Sport 1
 http://127.0.0.1:6878/ace/getstream?id=b99278331ad806f1463fcd3bf53befa5530d86da
-#EXTINF:-1 group-title="Otros idiomas" ,Setanta Sport 1
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports1.png" ,Setanta Sport 1
 http://127.0.0.1:6878/ace/getstream?id=8b70ef2d42e2adac57e90f68847eadfc356c04d2
-#EXTINF:-1 group-title="Otros idiomas" ,Setanta Sport 2
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sport 2
 http://127.0.0.1:6878/ace/getstream?id=9b8feebaf07ced9351ad88da77ef617f82626c4b
-#EXTINF:-1 group-title="Otros idiomas" ,Setanta Sport 2
+#EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sport 2
 http://127.0.0.1:6878/ace/getstream?id=02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
