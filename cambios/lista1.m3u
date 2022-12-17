@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/MG3Vc2xT/elevensports14k.png" ,Eleven Sports 1 4K
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 group-title="4K" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/Y9fdmnqC/golmundial4k.png" ,Gol Mundial 4K
+acestream://fc138340e045615c18f678acd5d045aec7e630a8
 #EXTINF:-1 group-title="4K" tvg-id="LA 1 HD" tvg-logo="https://i.postimg.cc/FzdPMFp5/tve4k.png" ,La 1 4K
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,Sin emisión
@@ -51,8 +53,12 @@ acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 acestream://7031601915e3d33893cb324c89055b91b9ec5574
 #EXTINF:-1 group-title="Eventos del momento" tvg-id="Gol Mundial 2 HD" tvg-logo="https://i.postimg.cc/sD27RtH5/golmundial2-oscuro.png" ,Gol Mundial 2 1080 (kawa*)
 acestream://f3d0600f3a135c487f38a0ef9aa3d8beeb579671
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,En pruebas
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,En pruebas 1
 acestream://fd475e964f75f71737a53ab44a2af0f0dcda1709
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,En pruebas 2
+acestream://f31f67abf056eebb02b60bdf985fe3fc7564c0bd
+#EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/Y9fdmnqC/golmundial4k.png" ,Gol Mundial 4K
+acestream://fc138340e045615c18f678acd5d045aec7e630a8
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 1080 multiaudio
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 group-title="Gol Mundial" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 1080 multiaudio
