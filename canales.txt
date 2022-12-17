@@ -1,3 +1,4 @@
+Gol Mundial UHD	acestream://fc138340e045615c18f678acd5d045aec7e630a8
 Gol Mundial 1080	acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
 Gol Mundial 720	acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
 Gol Mundial 1080 MultiAudio	acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
