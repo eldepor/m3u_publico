@@ -167,6 +167,8 @@ http://127.0.0.1:6878/ace/getstream?id=3b50977af3acb17ecd8e463a94888dfbaea028d2
 http://127.0.0.1:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 2 HD" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,M+ LaLiga Smartbank 2 720
 http://127.0.0.1:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV 3 HD" tvg-logo="https://i.postimg.cc/CKxJXggY/ligasmartbank.png" ,M+ LaLiga Smartbank 3 1080
+http://127.0.0.1:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LaLiga TV Bar HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,M+ LaLiga TV BAR 1080
 http://127.0.0.1:6878/ace/getstream?id=01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LaLiga TV Bar HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv-bar-2505.png" ,M+ LaLiga TV BAR 720
