@@ -38,7 +38,7 @@ M.L. Campeones 3 720	acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 M.L. Campeones 4 SD	acestream://1a1b528109edead1904e3dbff575637a452dd1fa
 M.L. Campeones 5 SD	acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d
 M.L. Campeones 6 SD	acestream://e9950ec551124c490ecbc2526a83d2c5a4516293
-M.L. Campeones 7 SD	acestream://8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
+M.L. Campeones 7 SD	acestream://d84a90adb6998083403f610ab3fae340b5711b1e
 M.L. Campeones 8 SD	acestream://fdd9e3660059051660dbd7857443c2b807f258d0
 M.L. Campeones 9 SD	acestream://69c95dc47b35dde559a6ef025c1b91c89646a17f
 M.L. Campeones 10 SD	acestream://df67afe5c5f5e82a3ae629d126727b006b65e676
