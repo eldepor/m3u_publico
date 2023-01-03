@@ -9,9 +9,9 @@ acestream://0dcde887b5535bd4c19c8f565b945e37ffcab0ab
 acestream://440e15375a76b0245ee07873dae1681f8c6d83cb
 #EXTINF:-1 group-title="1.MUNDIAL CATAR" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/yx1TMn4J/golmundialuhd2.png" , Gol Mundial 4k UHD
 acestream://fc138340e045615c18f678acd5d045aec7e630a8
-#EXTINF:-1 group-title="1.MUNDIAL CATAR" tvg-id="" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,La 1 4K
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,La 1 4K
 acestream://059add5d6c8cda2a2ebf8e338744e360388b34ae
-#EXTINF:-1 group-title="1.MUNDIAL CATAR" tvg-id="" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,La 1 4K*
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="" tvg-logo="https://i.postimg.cc/9FFnChQY/4k.png" ,La 1 4K*
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 group-title="1.MUNDIAL CATAR" tvg-id="Gol Mundial HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 1080 MultiAudio*
 acestream://
@@ -39,7 +39,7 @@ acestream://f3d0600f3a135c487f38a0ef9aa3d8beeb579671
 acestream://8a26b327719faf000af9c0f46014be28415eacf1
 #EXTINF:-1 group-title="1.MUNDIAL CATAR" tvg-id="Gol Mundial 2 HD" tvg-logo="https://i.postimg.cc/02JXnjWh/golmundial2-oscuro.png" ,Gol Mundial 2 720*
 acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
-#EXTINF:-1 group-title="1.MUNDIAL CATAR" tvg-id="La 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La 1 1080*
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="La 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La 1 1080*
 acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
