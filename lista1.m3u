@@ -101,13 +101,13 @@ acestream://f8a77a75bf7572e360556339794d3d13fca8caa9
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2
 acestream://b12bd6f32bbd53a2bbf182a30549fbdf747235cd
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #1 (m*)
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #1 (Manuk0s)
 acestream://08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 (m*)
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #2 (Manuk0s)
 acestream://aa0a5fd60f197eae4e3fbedc1206378a0c226590
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 (m*)
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 (Manuk0s)
 acestream://3cf698c5626e6311c8fd88010227b838aa730da9
-#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 (m*)
+#EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #4 (Manuk0s)
 acestream://0e382ebf4e14e40ea75a89e437c5edb1904b2be0
 #EXTINF:-1 group-title="Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,En pruebas 1
 acestream://fd475e964f75f71737a53ab44a2af0f0dcda1709
@@ -147,7 +147,7 @@ acestream://107acd31600d0fdcdbac2065171c39042f3369c7
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080 multiaudio
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080 multiaudio
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080 multiaudio (alexgdbu)
 acestream://43ffacd7b69c0dfe53e242a8bc1ee3da5cbcf412
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
@@ -157,7 +157,7 @@ acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664
 acestream://d8512e64f34a117afb656f5c66cf8d88023c9570
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 720
 acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 720
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLiga 720 (alexgdbu)
 acestream://4a070e1f4c8785100428f3f15a71eb6ed6b5ab62
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV 2 HD" tvg-logo="https://i.postimg.cc/dt8CsBmm/liga2.png" ,M+ LaLiga 2 1080
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
