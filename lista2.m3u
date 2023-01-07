@@ -139,6 +139,8 @@ http://127.0.0.1:6878/ace/getstream?id=87a043de5d4cd60c731bc00d09f13bad8d882164
 http://127.0.0.1:6878/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720
 http://127.0.0.1:6878/ace/getstream?id=b888712c494a93739d4f275806d7e4feb4c6d2f8
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720
+http://127.0.0.1:6878/ace/getstream?id=87a043de5d4cd60c731bc00d09f13bad8d882164
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas #V HD" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V 720
 http://127.0.0.1:6878/ace/getstream?id=71e9e4c66a271ff58beb76792e01eeb6a1dde746
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas #V HD" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V
